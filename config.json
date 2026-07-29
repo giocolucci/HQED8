@@ -2,7 +2,7 @@
   "version": 1,
 
   "window": {
-    "start_hour": 8,
+    "start_hour": 08,
     "end_hour": 22,
     "min_interval_min": 30
   },

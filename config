@@ -1,0 +1,32 @@
+{
+  "version": 1,
+
+  "window": {
+    "start_hour": 8,
+    "end_hour": 20,
+    "min_interval_min": 30
+  },
+
+  "plants": [
+    {
+      "enabled": true,
+      "irrigations_per_day": 3,
+      "duration_s": 10
+    },
+    {
+      "enabled": true,
+      "irrigations_per_day": 2,
+      "duration_s": 8
+    },
+    {
+      "enabled": false,
+      "irrigations_per_day": 0,
+      "duration_s": 0
+    },
+    {
+      "enabled": true,
+      "irrigations_per_day": 1,
+      "duration_s": 15
+    }
+  ]
+}

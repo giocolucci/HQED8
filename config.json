@@ -3,14 +3,14 @@
 
   "window": {
     "start_hour": 8,
-    "end_hour": 20,
+    "end_hour": 22,
     "min_interval_min": 30
   },
 
   "plants": [
     {
       "enabled": true,
-      "irrigations_per_day": 3,
+      "irrigations_per_day": 5,
       "duration_s": 10
     },
     {

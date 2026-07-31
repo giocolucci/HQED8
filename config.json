@@ -2,8 +2,8 @@
   "version": 1,
 
   "window": {
-    "start_hour": 13,
-    "end_hour": 14,
+    "start_hour": 8,
+    "end_hour": 18,
     "min_interval_min": 30
   },
 

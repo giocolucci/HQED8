@@ -2,8 +2,8 @@
   "version": 1,
 
   "window": {
-    "start_hour": 12,
-    "end_hour": 13,
+    "start_hour": 13,
+    "end_hour": 14,
     "min_interval_min": 30
   },
 
@@ -15,8 +15,8 @@
     },
     {
       "enabled": true,
-      "irrigations_per_day": 1,
-      "duration_s": 15
+      "irrigations_per_day": 7,
+      "duration_s": 2
     },
     {
       "enabled": true,

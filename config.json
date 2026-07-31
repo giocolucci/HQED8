@@ -20,13 +20,13 @@
     },
     {
       "enabled": true,
-      "irrigations_per_day": 1,
-      "duration_s": 15
+      "irrigations_per_day": 2,
+      "duration_s": 10
     },
     {
       "enabled": true,
-      "irrigations_per_day": 20,
-      "duration_s": 60
+      "irrigations_per_day": 2,
+      "duration_s": 50
     }
   ]
 }

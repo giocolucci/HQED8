@@ -2,31 +2,31 @@
   "version": 1,
 
   "window": {
-    "start_hour": 08,
-    "end_hour": 22,
+    "start_hour": 12,
+    "end_hour": 13,
     "min_interval_min": 30
   },
 
   "plants": [
     {
       "enabled": true,
-      "irrigations_per_day": 5,
+      "irrigations_per_day": 1,
       "duration_s": 10
-    },
-    {
-      "enabled": true,
-      "irrigations_per_day": 2,
-      "duration_s": 8
-    },
-    {
-      "enabled": true,
-      "irrigations_per_day": 0,
-      "duration_s": 0
     },
     {
       "enabled": true,
       "irrigations_per_day": 1,
       "duration_s": 15
+    },
+    {
+      "enabled": true,
+      "irrigations_per_day": 1,
+      "duration_s": 20
+    },
+    {
+      "enabled": true,
+      "irrigations_per_day": 1,
+      "duration_s": 30
     }
   ]
 }

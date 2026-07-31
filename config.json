@@ -14,17 +14,17 @@
       "duration_s": 10
     },
     {
-      "enabled": false,
+      "enabled": true,
       "irrigations_per_day": 2,
       "duration_s": 8
     },
     {
-      "enabled": false,
+      "enabled": true,
       "irrigations_per_day": 0,
       "duration_s": 0
     },
     {
-      "enabled": false,
+      "enabled": true,
       "irrigations_per_day": 1,
       "duration_s": 15
     }

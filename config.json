@@ -15,7 +15,7 @@
     },
     {
       "enabled": true,
-      "irrigations_per_day": 15,
+      "irrigations_per_day": 10,
       "duration_s": 6
     },
     {
